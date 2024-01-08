@@ -1,12 +1,14 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: datasets
+permalink: /datasets/
+description: Overview of published datasets.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
+#display_categories: [work, fun]
 horizontal: false
+toc:
+  sidebar: left
 ---
 
 <!-- pages/projects.md -->
